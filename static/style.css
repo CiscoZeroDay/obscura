@@ -1,0 +1,11 @@
+/* Small extra styles for avatars/cards */
+.avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
