@@ -56,7 +56,7 @@ IDOR (Insecure Direct Object Reference) happens when an application exposes inte
 ------------------------------------------
 ## 2 - Exploitation
 
--  The goal now is to <code>find the correct ID</code> that contains the hidden flag.
+- The goal now is to <code>find the correct ID</code> that contains the hidden flag.
 
 - Doing it manually would take too long, so let’s automate it with a Python script.
 
